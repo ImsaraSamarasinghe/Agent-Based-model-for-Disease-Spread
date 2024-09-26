@@ -1,0 +1,50 @@
+Day Number1
+The number of healthy people=45
+The number of sick people=1
+The number of asymptomatic people=4
+The number of recovered people=0
+Day Number2
+The number of healthy people=19
+The number of sick people=1
+The number of asymptomatic people=30
+The number of recovered people=0
+Day Number3
+The number of healthy people=4
+The number of sick people=5
+The number of asymptomatic people=41
+The number of recovered people=0
+Day Number4
+The number of healthy people=1
+The number of sick people=31
+The number of asymptomatic people=18
+The number of recovered people=0
+Day Number5
+The number of healthy people=0
+The number of sick people=46
+The number of asymptomatic people=4
+The number of recovered people=0
+Day Number6
+The number of healthy people=0
+The number of sick people=44
+The number of asymptomatic people=1
+The number of recovered people=5
+Day Number7
+The number of healthy people=0
+The number of sick people=19
+The number of asymptomatic people=0
+The number of recovered people=31
+Day Number8
+The number of healthy people=0
+The number of sick people=4
+The number of asymptomatic people=0
+The number of recovered people=46
+Day Number9
+The number of healthy people=0
+The number of sick people=1
+The number of asymptomatic people=0
+The number of recovered people=49
+Day Number10
+The number of healthy people=0
+The number of sick people=0
+The number of asymptomatic people=0
+The number of recovered people=50
